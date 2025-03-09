@@ -1,8 +1,8 @@
 # Tugas Kelompok Pemograman Web Dasar
 # Nama Anggota Kelompok : Ratna Dwi Gita Stefani, Evelyn G, Aprilia Dara Fani
-
+# ___________________________________________________________________________
 # Frontend - HTML
-HtML singkatan dari HyperText Markup
+HTML singkatan dari HyperText Markup Language
 # Kelebihan HTML
 1. Mudah dipelajari, HTML adalah bahasa markup yang mudah dipelajari dan dipahami bagi pemula.
 2. Ringan dan cepat, HTML tidak memerlukan kompilasi, sehingga cepat dimuat dengan cepat oleh browser.
